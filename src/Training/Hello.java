@@ -7,10 +7,8 @@ public class Hello {
 
 		System.out.println("welcome to the world of DevOps");
 		System.out.println(20+40);
-		
-		
-		
-		
+	
+		System.out.println("github integration successful");
 		
 	}
 
