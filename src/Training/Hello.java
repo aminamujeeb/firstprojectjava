@@ -10,6 +10,9 @@ public class Hello {
 	
 		System.out.println("github integration successful");
 		
+		System.out.println("Testing manual scm with jenkins");
+		
+		
 	}
 
 }
